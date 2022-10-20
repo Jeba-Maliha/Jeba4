@@ -1,4 +1,4 @@
-# Jeba4
+# Jeba_Automation
 I've used a Keyword driven framework for automation testing.
 Here,this project will run in IDE Intelli j version 2020 . 
 There is some methods in KeywordEngine and some keywords in Keyword service.Expand KWD TOTP in IDE -> Target -> classes -> com -> disinnovators -> keyword -> driven -> engine -> KeywordEngine and Expand KWD TOTP in IDE -> Target -> classes -> com -> disinnovators -> keyword -> driven -> service -> Keyword service .Also Expand KWD TOTP in IDE -> build ->config -> Project_Properties ,here you have to provide folder location of your project in line 1,7,8,64 .Also Expand KWD TOTP in IDE ->Test script -> Pom file, here is the pom file.
