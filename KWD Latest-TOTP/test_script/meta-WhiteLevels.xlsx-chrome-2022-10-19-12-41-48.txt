@@ -1,0 +1,6 @@
+ExcelFileName=WhiteLevels.xlsx
+SheetName=Reg_PlaceOrder
+
+RANDOM_VALUE1=null	(Time=2022-Oct-19 12:41:48 LineNo=2)
+Status=Successful
+
