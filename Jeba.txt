@@ -1,0 +1,7 @@
+I've used a Keyword driven framework for automation testing.
+Here,this project will run in IDE Intelli j version 2020 . 
+There is some methods in Keywordservice and some keywords in Keyword engine. 
+There's an excel file in the project Final -> KWD ->Test script folder.Opening this folder you'll find xpath and keywords.This keywords are called from class Keywordservice,where methods are written.Methods are written in Java.
+To run this file goto intelli j ->click "Run" button.In the console you can see which line is paased and which is failed. 
+After finishing running this project you can see the report that how many have passes/failed.To get the report : Final -> KWD ->Test script folder-> Double click on Chrome report.
+Also i'm attaching a demo video to understand what i did.
